@@ -23,7 +23,7 @@
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1",
     "dgraph-js": "~2.0.2",
-    "grpc": "~1.24.2"
+    "grpc": "~1.24.9"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.20",
